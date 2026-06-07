@@ -84,7 +84,7 @@ export const galleries: Gallery[] = [
       en: "One of Aotearoa's most important artist-run spaces, Artspace Aotearoa presents ambitious contemporary art exhibitions that engage with the social and cultural contexts of Tāmaki Makaurau Auckland. Free entry and a commitment to accessibility make it a vital stop on K' Road's gallery strip.",
       ja: 'アオテアロアで最も重要なアーティスト・ラン・スペースの一つで、タマキ・マカウラウ・オークランドの社会的・文化的文脈と関わる意欲的な現代美術展を開催しています。入場無料で、カランガハペ・ロードのギャラリー巡りに欠かせないスポットです。',
     },
-    image: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&h=450&fit=crop',
+    image: 'https://tse2.mm.bing.net/th/id/OIP.rjrzB65H560vkCuEg2Q6ugHaFj?rs=1&pid=ImgDetMain&o=7&rm=3',
   },
   {
     id: 'te-uru',
