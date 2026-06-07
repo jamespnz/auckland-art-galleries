@@ -24,7 +24,6 @@ export function Header({ activeFilter, onFilterChange }: HeaderProps) {
             <h1 className="text-lg sm:text-xl font-serif font-bold text-charcoal truncate">
               Auckland Art Guide
             </h1>
-            <span className="text-sm text-gray-500 hidden sm:inline">/</span>
             <span className="text-sm text-gray-500 hidden sm:inline">オークランド・アートガイド</span>
           </div>
           <button
