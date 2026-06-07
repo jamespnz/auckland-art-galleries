@@ -130,7 +130,7 @@ export const galleries: Gallery[] = [
       en: 'Te Tuhi is a contemporary art space that operates within a tikanga Māori framework, presenting experimental exhibitions and community-engaged projects. Located in Pakuranga, it offers a perspective distinct from the central city galleries. Free entry.',
       ja: 'テ・トゥヒはティカンガ・マオリの枠組みの中で運営される現代アートスペースで、実験的な展覧会やコミュニティ参加型プロジェクトを展開しています。パクランガに位置し、中心部のギャラリーとは異なる視点を提供します。入場無料。',
     },
-    image: 'https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=450&fit=crop',
+    image: 'https://eastaucklandtourism.co.nz/wp-content/uploads/2024/07/theTuhi4.jpg',
   },
   {
     id: 'objectspace',
@@ -153,7 +153,7 @@ export const galleries: Gallery[] = [
       en: 'Objectspace is a unique gallery dedicated to the intersection of craft, design, and architecture viewed through a contemporary art lens. Exhibitions range from jewellery and ceramics to furniture and spatial design, offering a refreshing alternative to traditional painting-focused galleries.',
       ja: 'オブジェクトスペースは、工芸・デザイン・建築を現代アートの視点から紹介するユニークなギャラリーです。ジュエリーや陶芸から家具、空間デザインまで幅広い展示を行い、従来の絵画中心のギャラリーとは一線を画しています。',
     },
-    image: 'https://images.unsplash.com/photo-1460661419907-4a21f36003d3?w=800&h=450&fit=crop',
+    image: 'https://cdn.architecturenow.co.nz/site_media/media/cache/01/1d/011dce66ad76498d82d4766176ba98e9.jpg',
   },
   {
     id: 'pah-homestead',
@@ -222,7 +222,7 @@ export const galleries: Gallery[] = [
       en: 'Operating since 1987, Gow Langsford is one of New Zealand\'s most respected commercial galleries with over 300 exhibitions to its name. Representing leading NZ and international artists, it offers museum-quality works across painting, sculpture, and works on paper in an elegant CBD space.',
       ja: '1987年から運営され、300以上の展覧会を開催してきたニュージーランドで最も権威ある商業ギャラリーの一つです。国内外の一流アーティストを代理し、絵画、彫刻、紙作品をエレガントなCBDの空間で提供しています。',
     },
-    image: 'https://images.unsplash.com/photo-1564399580075-5dfe19c205f0?w=800&h=450&fit=crop',
+    image: 'https://artlogic-res.cloudinary.com/w_2000,h_2000,c_limit,f_auto,fl_lossy,q_auto/ws-gowlangsford/usr/images/pages/slideshow_backup/1/group-exhibition_2022_installation-view_4.jpg',
   },
   {
     id: 'michael-lett',
@@ -291,7 +291,7 @@ export const galleries: Gallery[] = [
       en: 'Two Rooms is a well-established gallery in Grey Lynn presenting photography, works on paper, sculpture, and painting from New Zealand and international artists. The generous warehouse-style space allows ambitious installations and large-scale works to be shown to their full advantage.',
       ja: 'グレイ・リンにある確立されたギャラリーで、ニュージーランドと海外のアーティストによる写真、紙作品、彫刻、絵画を紹介しています。広々とした倉庫スタイルの空間で、大規模なインスタレーションや作品を十分に楽しめます。',
     },
-    image: 'https://images.unsplash.com/photo-1594794312433-05a69139b9e4?w=800&h=450&fit=crop',
+    image: 'https://www.parnell.net.nz/wp-content/uploads/2020/06/Artis_Parnell_webgallery-768x512.jpg',
   },
   {
     id: 'tim-melville',
@@ -337,7 +337,7 @@ export const galleries: Gallery[] = [
       en: 'Melanie Roger Gallery represents some of New Zealand\'s most significant contemporary practitioners across painting, photography, and sculpture. Located on Karangahape Road, the gallery maintains an ambitious exhibition programme and strong relationships with institutional collections.',
       ja: 'メラニー・ロジャー・ギャラリーは、絵画、写真、彫刻の分野でニュージーランドを代表する現代アーティストを代理しています。カランガハペ・ロードに位置し、野心的な展覧会プログラムと美術館コレクションとの強いつながりを維持しています。',
     },
-    image: 'https://images.unsplash.com/photo-1531913764164-f85c3e01b2aa?w=800&h=450&fit=crop',
+    image: 'https://melanierogergallery.com/media/cache/ae/57/ae57fc86b121af711489461eeadf38b8.jpg',
   },
   {
     id: 'anna-miles',
@@ -475,7 +475,7 @@ export const galleries: Gallery[] = [
       en: "Art+Object is Aotearoa New Zealand's leading auction house specialising in modern and contemporary art, applied art, and rare books. Their Important Paintings & Contemporary Art auctions are major calendar events in the NZ art market, attracting serious collectors from around the country and internationally.",
       ja: 'アート+オブジェクトは、近現代アート、応用美術、希少書籍を専門とするアオテアロア・ニュージーランドを代表するオークションハウスです。重要絵画・現代アートのオークションはNZアート市場の主要イベントで、国内外のコレクターが集まります。',
     },
-    image: 'https://images.unsplash.com/photo-1577083552431-6e5fd01988ec?w=800&h=450&fit=crop',
+    image: 'https://tse1.mm.bing.net/th/id/OIP.q4awQyj-xH_4LVaFaEo6lgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3',
     auctionSchedule: {
       en: 'Important Paintings & Contemporary Art auctions multiple times per year (typically March, June, August, November). New Collectors Art auctions scheduled between major sales.',
       ja: '重要絵画・現代アートオークション：年に複数回開催（通常3月、6月、8月、11月）。ニューコレクターズ・アートオークション：大型セールの間に開催。',
@@ -502,7 +502,7 @@ export const galleries: Gallery[] = [
       en: "The International Art Centre is New Zealand's most experienced fine art auction house, conducting Important & Rare Art auctions three times per year alongside regular Collectable Art and Art at Home sales. Their annual Women in Art auction in May is a highlight of the Auckland art calendar.",
       ja: 'インターナショナル・アート・センターは、NZで最も経験豊富なファインアートオークションハウスです。年3回の重要・希少アートオークションに加え、定期的なコレクタブルアートとアート・アット・ホームのセールを実施。毎年5月の「Women in Art」オークションはオークランドのアートカレンダーのハイライトです。',
     },
-    image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=450&fit=crop',
+    image: 'https://artnow-latch.imgix.net/Galleries/IAC-Imp-Rare-Licensed-Low-Res-17-of-18.jpg?auto=compress%2Cformat&dm=1742857148&fit=crop&ixlib=php-3.1.0&step=100&width=1000',
     auctionSchedule: {
       en: 'Important & Rare Art auctions three times per year. Annual "Women in Art" auction in May. Regular Collectable Art and Art at Home auctions throughout the year.',
       ja: '重要・希少アートオークション：年3回。毎年5月「Women in Art」オークション。コレクタブルアート・アット・ホームオークション：年間通じて定期開催。',
@@ -529,7 +529,7 @@ export const galleries: Gallery[] = [
       en: 'Webbs is a specialist auction house dealing in fine art, design objects, jewellery, wine, and collectables. Their live evening auctions are social events in themselves, attracting Auckland\'s collecting community. The breadth of categories makes them a one-stop destination for discerning collectors.',
       ja: 'ウェブズはファインアート、デザインオブジェ、ジュエリー、ワイン、コレクターズアイテムを扱う専門オークションハウスです。ライブイブニングオークションはオークランドのコレクターが集まる社交イベントで、幅広いカテゴリーが魅力です。',
     },
-    image: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&h=450&fit=crop',
+    image: 'https://tse4.mm.bing.net/th/id/OIP.XSzxmXvMkp3r6yWGmIPvbgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3',
     auctionSchedule: {
       en: 'Live evening auctions throughout the year. Specialist sales for fine art, design, jewellery, and wine scheduled regularly.',
       ja: 'ライブイブニングオークション：年間通じて開催。ファインアート、デザイン、ジュエリー、ワインの専門セールを定期的に実施。',
@@ -556,7 +556,7 @@ export const galleries: Gallery[] = [
       en: "Cordy's is a fine art and antique auctioneer in Grey Lynn conducting Jewellery, Decorative & Fine Arts auctions roughly monthly (Tuesdays) and online-only Estate Collectable auctions weekly (Thursday–Monday). Their accessible approach makes them a good entry point for new collectors.",
       ja: "コーディーズはグレイ・リンのファインアート＆アンティークオークションハウスです。ジュエリー・装飾・ファインアートのオークションを月約1回（火曜日）、オンラインのみのエステートコレクタブルオークションを毎週（木〜月）開催。新しいコレクターにも親しみやすいアプローチが特徴です。",
     },
-    image: 'https://images.unsplash.com/photo-1567696911980-2eed69a46042?w=800&h=450&fit=crop',
+    image: 'https://www.cordys.co.nz/img/default-banner3.jpg',
     auctionSchedule: {
       en: 'Jewellery, Decorative & Fine Arts auctions roughly monthly (Tuesdays). Online-only Estate Collectable auctions weekly (Thursday–Monday).',
       ja: 'ジュエリー・装飾・ファインアートオークション：月約1回（火曜日）。オンラインエステートコレクタブルオークション：毎週（木〜月）。',
@@ -583,7 +583,7 @@ export const galleries: Gallery[] = [
       en: 'Dunbar Sloane is a well-established auction house dealing in art, antiques, artefacts, toys & dolls, and wine. With a strong national presence, their Auckland branch offers access to a wide range of collectables and fine art for both seasoned and beginning collectors.',
       ja: 'ダンバー・スローンは、アート、アンティーク、工芸品、おもちゃ、ワインを取り扱う老舗オークションハウスです。全国的な存在感があり、オークランド支店では幅広いコレクターズアイテムとファインアートを提供しています。',
     },
-    image: 'https://images.unsplash.com/photo-1582561424760-0321d75e81fa?w=800&h=450&fit=crop',
+    image: 'https://cdn.prod.website-files.com/643e15e93d872d7024aa502c/6479026c9734a2cdcb5c1a18_nightshot%20copy.jpg',
     auctionSchedule: {
       en: 'Regular auctions for art, antiques, and collectables. Check website for current Auckland schedule.',
       ja: 'アート、アンティーク、コレクターズアイテムの定期オークション。オークランドの最新スケジュールはウェブサイトをご確認ください。',
