@@ -1,7 +1,6 @@
 export const strings = {
   en: {
     siteTitle: 'Auckland Art Guide',
-    siteTitleJa: '',
     heroText: 'A curated guide to Auckland\'s public art galleries, dealer galleries, and fine art auction houses — for visiting art lovers and collectors exploring the city.',
     filterAll: 'All',
     filterPublic: 'Public Galleries',
